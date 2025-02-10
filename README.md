@@ -7,7 +7,7 @@ I'm an undergraduate student at **IIT Bombay**, currently working as a **Web Dev
 ## Skills
 
 - **Languages**: C++, Python, JavaScript
-- **Web Development**: React, Django, HTML, CSS, Bootstrap
+- **Web Development**: React, Django, Next.js, PostgreSQL, HTML, CSS, Tailwind
 - **Animation**: GSAP
 
 ## Current Work
